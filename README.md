@@ -1,8 +1,7 @@
-<p align="center">
-![it-crowd-screensaver-fire](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)
-</p>
+# Welcome to Skyler's Github Profile!!
 
-### Hi there 👋
+![it-crowd-screensaver-fire](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)
+
 
 <!--
 **Skyler-Guha/Skyler-Guha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
