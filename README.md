@@ -1,4 +1,6 @@
+<p align="center">
 ![it-crowd-screensaver-fire](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)
+</p>
 
 ### Hi there 👋
 
