@@ -3,7 +3,7 @@
 
 <img src="it-crowd-screensaver-fire-croped.gif" width="100%"/>
 
-$${\color{red}Welcome \space to \space my \space profile!!}$$
+$${\color{#E983D8}Welcome \space to \space my \space profile!!}$$
 
 **Hi, I am Skyler Guha. I Specialize in Machine Learning, Computer Vision and Python Programing. AI and robotics are subjects that have always fascinated me. I am an experienced programmer with proficiency in languages such as Python, C and C++. I find joy in finding innovative solutions to problems that need solving!!**
 
@@ -15,6 +15,10 @@ $${\color{red}Welcome \space to \space my \space profile!!}$$
 Badges sources:
 https://github.com/subinium/kaggle-badge/blob/master/README.md
 https://github.com/Ileriayo/markdown-badges
+
+#colored text:
+$\textcolor{#E983D8}{\textsf{Should be magenta}}$ 
+$${\color{#E983D8}Welcome \space to \space my \space profile!!}$$
 
 
 --->
