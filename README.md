@@ -1,6 +1,6 @@
 # Welcome to Skyler's Github Profile!!
 
-<img src="it-crowd-screensaver-fire.gif" width="128"/>
+<img src="it-crowd-screensaver-fire.gif" width="100%"/>
 
 <!--
 **Skyler-Guha/Skyler-Guha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
