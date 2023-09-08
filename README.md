@@ -1,4 +1,4 @@
-![it-crowd-screensaver-fire-gif]([https://tenor.com/view/it-crowd-screensaver-fire-gif-15204399](https://media.tenor.com/Oe1f6kZOY1wAAAAd/it-crowd-screensaver-fire.gif) "a title")
+![it-crowd-screensaver-fire](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)
 
 ### Hi there 👋
 
