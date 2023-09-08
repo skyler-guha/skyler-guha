@@ -1,10 +1,11 @@
 # Welcome to Skyler's Github Profile!!
 
-![it-crowd-screensaver-fire](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)
-
+<img src="[drawing.jpg](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)" alt="it-crowd-screensaver-fire" width="200"/>
 
 <!--
 **Skyler-Guha/Skyler-Guha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![it-crowd-screensaver-fire](https://github.com/Skyler-Guha/Skyler-Guha/assets/104735259/591e18d9-3bdc-4b05-b367-9faff9485101)
 
 Here are some ideas to get you started:
 
