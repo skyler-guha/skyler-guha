@@ -1,6 +1,6 @@
 <img src="it-crowd-screensaver-fire-croped.gif" width="100%"/>
 
-<h2> $${\color{#E983D8}Welcome \space to \space my \space profile!!}$$ </h2>
+<h2> $${\color{#B775D1}Welcome \space to \space my \space profile!!}$$ </h2>
 
 **Hi, I am Skyler Guha. I specialize in Machine Learning, Computer Vision and Python Programing.<br>
 I am an experienced programmer with proficiency in languages such as Python, C and C++.<br>
