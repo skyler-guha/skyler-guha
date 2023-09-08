@@ -1,6 +1,6 @@
 <img src="it-crowd-screensaver-fire-croped.gif" width="100%"/>
 
-<h1> $${\color{#B775D1}mi \space casa \space es \space su \space casa}$$ </h1>
+<h2> $${\color{#B775D1}mi \space casa \space es \space su \space casa}$$ </h2>
 
 **Hi, I am Skyler Guha. I specialize in Machine Learning, Computer Vision and Python Programing.<br>
 I am an experienced programmer with proficiency in languages such as Python, C and C++.<br>
