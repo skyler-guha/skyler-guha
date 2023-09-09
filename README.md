@@ -70,9 +70,8 @@ $\textcolor{#5382ff}{\textsf{Transformer Models}}$
 
 # :handshake: Let's Connect
 
-I'm always eager to connect with like-minded individuals, developers, and tech enthusiasts. Reach out to me through the following platforms:
-
 <div align="center" markdown="1">
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://skyler-guha.github.io/)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skyler-guha/)
@@ -80,8 +79,6 @@ I'm always eager to connect with like-minded individuals, developers, and tech e
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/skylerguha)
 
 </div>
-
-Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello!
 
 <!--- 
 
