@@ -7,6 +7,7 @@ AI and robotics are subjects that have always fascinated me and i love problem s
 ## :sparkles: My Skills
 
 **Background:** 
+
 $\textcolor{#E983D8}{\textsf{Programming,}}$ 
 $\textcolor{#9b6ef3}{\textsf{Predictive Analytics,}}$ 
 $\textcolor{#FF69B4}{\textsf{Computer Vision,}}$ 
@@ -66,7 +67,24 @@ $\textcolor{#5382ff}{\textsf{Transformer Models}}$
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+
+# :handshake: Let's Connect
+
+I'm always eager to connect with like-minded individuals, developers, and tech enthusiasts. Reach out to me through the following platforms:
+
+<div align="center" markdown="1">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://skyler-guha.github.io/)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skyler-guha/)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skylerguha@gmail.com) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/skylerguha)
+
+</div>
+
+Don't hesitate to drop me a message, whether it's for a collaboration, an exciting project idea, or just to say hello!
+
 <!--- 
+
 Badges sources:
 <h1> $${\color{#B775D1}mi \space casa \space es \space su \space casa}$$ </h1>
 
@@ -78,8 +96,6 @@ https://home.aveek.io/GitHub-Profile-Badges/
 #colored text:
 $\textcolor{#E983D8}{\textsf{Should be magenta}}$ 
 $${\color{#E983D8}Welcome \space to \space my \space profile!!}$$
-
-# [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://skyler-guha.github.io/)  [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skyler-guha/)  [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skylerguha@gmail.com)   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/skylerguha)
 
 
 ! Programming
