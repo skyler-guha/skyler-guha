@@ -1,31 +1,34 @@
 <img src="it-crowd-screensaver-fire-croped.gif" width="100%"/>
 
-**Hi, I am Skyler Guha. I specialize in Machine Learning, Computer Vision and Python Programing.<br>
+<div align="center" markdown="1">
+<samp>
+Hi, I am Skyler Guha. I specialize in Machine Learning, Computer Vision and Python Programing.<br>
 I am an experienced programmer with proficiency in languages such as Python, C and C++.<br>
-AI and robotics are subjects that have always fascinated me and I love problem solving!!**
+AI and robotics are subjects that have always fascinated me and I love problem solving!!<br>
+</samp>
+</div>
 
 ## :sparkles: My Skills
 
 **Background:** 
 
-$\textcolor{#E983D8}{\textsf{Programming,}}$ 
-$\textcolor{#9b6ef3}{\textsf{Predictive Analytics,}}$ 
-$\textcolor{#FF69B4}{\textsf{Computer Vision,}}$ 
-$\textcolor{#5382ff}{\textsf{Transformer Models}}$ 
-
+![Programming](https://img.shields.io/badge/Programming-2ea44f?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-2ea44f?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-2ea44f?style=for-the-badge)
+![Transformer Models](https://img.shields.io/badge/Transformer_Models-2ea44f?style=for-the-badge)
 
 
 **Languages:**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Skyler-Guha)
-[![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Skyler-Guha)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Skyler-Guha)
-[![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Skyler-Guha)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Skyler-Guha)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Skyler-Guha)
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://github.com/Skyler-Guha)
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Skyler-Guha)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 **Libraries/Frameworks:**
 
@@ -83,8 +86,6 @@ $\textcolor{#5382ff}{\textsf{Transformer Models}}$
 <!--- 
 
 Badges sources:
-<h1> $${\color{#B775D1}mi \space casa \space es \space su \space casa}$$ </h1>
-
 https://michaelcurrin.github.io/badge-generator/#/generic
 https://github.com/subinium/kaggle-badge/blob/master/README.md
 https://github.com/Ileriayo/markdown-badges
@@ -95,8 +96,10 @@ $\textcolor{#E983D8}{\textsf{Should be magenta}}$
 $${\color{#E983D8}Welcome \space to \space my \space profile!!}$$
 
 
-! Programming
-+ Predictive Analytics
-! Computer Vision
-+ Transformer Models
+$\textcolor{#E983D8}{\textsf{Programming,}}$ 
+$\textcolor{#9b6ef3}{\textsf{Predictive Analytics,}}$ 
+$\textcolor{#FF69B4}{\textsf{Computer Vision,}}$ 
+$\textcolor{#5382ff}{\textsf{Transformer Models}}$ 
+
+<h1> $${\color{#B775D1}mi \space casa \space es \space su \space casa}$$ </h1>
 --->
