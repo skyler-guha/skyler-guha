@@ -63,6 +63,7 @@ AI and robotics are subjects that have always fascinated me and I love problem s
 **Electronics:** 
 
 ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+<!--- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&color=bc1142) --->
 
 **Databases:** 
 
