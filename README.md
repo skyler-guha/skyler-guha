@@ -27,8 +27,7 @@ I like problem solving and learning new things!!<br>
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
 
 **Libraries/Frameworks:**
 
@@ -46,6 +45,7 @@ I like problem solving and learning new things!!<br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFD68A?style=for-the-badge)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFFF00?style=for-the-badge)
 ![Python Documentation - Sphinx](https://img.shields.io/badge/Python_Documentation-Sphinx-00008B?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 **Tools / Platforms:**
 
