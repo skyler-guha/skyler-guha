@@ -2,7 +2,7 @@
 
 <div align="center" markdown="1">
 <samp>
-Hi, I am Skyler. I dabble in Python Programing, Machine Learning, and Electronics.<br>
+Hi, I am Skyler. I have intrests in Python Programing, Machine Learning, and Electronics.<br>
 I have experince in languages such as Python, C and Rust.<br>
 I like problem solving and learning new things!!<br>
 </samp>
