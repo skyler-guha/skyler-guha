@@ -2,8 +2,8 @@
 
 <div align="center" markdown="1">
 <samp>
-Hi, I am Skyler. I specialize in Machine Learning, Computer Vision and Python Programing.<br>
-I am an experienced programmer with experince in languages such as Python, C and Rust.<br>
+Hi, I am Skyler. I dabble in Python Programing, Machine Learning, and Electronics.<br>
+I have experince in languages such as Python, C and Rust.<br>
 I like problem solving and learning new things!!<br>
 </samp>
 </div>
