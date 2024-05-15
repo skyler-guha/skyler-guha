@@ -2,9 +2,14 @@
 
 <div align="center" markdown="1">
 <samp>
-<em>" Have you tried turning it off and on again? "</em><br>
+<em>" Have you tried turning it off and on again? "</em><br><br><br>
 </samp>
 </div>
+
+**Current Job:**<br>
+Developer and Team Lead at EVOLVE SOFTWARE LLC (Full-time)
+<br>
+<br>
 
 **Background:** 
 
