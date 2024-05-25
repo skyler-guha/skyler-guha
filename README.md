@@ -7,7 +7,7 @@
 </div>
 
 **Current Job:**<br>
-Developer and Team Lead at EVOLVE SOFTWARE LLC (Full-time)
+Associate Developer at EVOLVE SOFTWARE LLC (Full-time)
 <br>
 <br>
 
