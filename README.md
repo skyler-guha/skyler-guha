@@ -7,7 +7,7 @@
 </div>
 
 **Current Job:**<br>
-Associate Developer at EVOLVE SOFTWARE LLC (Full-time)
+Currently looking for a new job.
 <br>
 <br>
 
