@@ -13,6 +13,8 @@ Junior Python Developor.
 
 **Background:** 
 
+![Quadcopter Flying](https://img.shields.io/badge/Quadcopter_Flying-2ea44f?style=for-the-badge)
+![Drone Building and Maintenance](https://img.shields.io/badge/Drone_Building_and_Maintenance-2ea44f?style=for-the-badge)
 ![Programming](https://img.shields.io/badge/Programming-2ea44f?style=for-the-badge)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-2ea44f?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-2ea44f?style=for-the-badge)
