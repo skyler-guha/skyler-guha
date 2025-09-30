@@ -6,8 +6,6 @@
 </samp>
 </div>
 
-<br>
-
 **Background:** 
 
 ![MultiRotor Drone Flying](https://img.shields.io/badge/MultiRotor_Drone_Flying-2ea44f?style=for-the-badge)
