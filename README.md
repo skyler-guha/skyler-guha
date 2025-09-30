@@ -6,8 +6,6 @@
 </samp>
 </div>
 
-**Current Job:**<br>
-Junior Python Developor.
 <br>
 <br>
 
